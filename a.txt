@@ -1,0 +1,9 @@
+texta essa texta mermão!
+"""
+...{obs: O pronome ESSE vem do latim (ipse) 
+e indica que o item “apontado, demonstrado” está perto do locutário 
+(pessoa com quem se fala) e distante do locutor (pessoa que fala).
+O pronome ESTE também vem do latim (iste),
+e indica que o item “apontado” está perto do locutor e distante do locutário.
+Ex1: Esse carro é seu?}...
+'''
