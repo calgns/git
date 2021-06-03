@@ -8,3 +8,5 @@ e indica que o item “apontado” está perto do locutor e distante do locutár
 Ex1: Esse carro é seu?}...
 '''
 linha modificada no ramo master
+
+modificação no ramo teste
